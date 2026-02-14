@@ -1,4 +1,4 @@
-<img width="3421" height="868" alt="image" src="https://github.com/user-attachments/assets/4af9f5e7-a804-4ff1-9aee-ac079d00c4b8" /># Mouse
+# Mouse
 
 A computer mouse I designed for hackclub's squeak YSWS (You Ship, We Ship).
 <img width="773" height="570" alt="Screenshot 2025-07-11 at 11 26 16 AM" src="https://github.com/user-attachments/assets/06ee6851-e902-4122-8f50-10c19154bd3f" />
