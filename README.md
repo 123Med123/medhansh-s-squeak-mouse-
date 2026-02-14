@@ -1,5 +1,4 @@
-![](https://hackatime-badge.hackclub.com/U08RLHLSRGA/Mouse)
-# Mouse
+<img width="3421" height="868" alt="image" src="https://github.com/user-attachments/assets/4af9f5e7-a804-4ff1-9aee-ac079d00c4b8" /># Mouse
 
 A computer mouse I designed for hackclub's squeak YSWS (You Ship, We Ship).
 <img width="773" height="570" alt="Screenshot 2025-07-11 at 11 26 16 AM" src="https://github.com/user-attachments/assets/06ee6851-e902-4122-8f50-10c19154bd3f" />
@@ -14,4 +13,4 @@ It consists of 3 parts, not including the pcb. I designed the base and the batte
 
 I also added parts on the base to keep the top part in place and I also added a hole for a screw.
 
-OnShape link: https://cad.onshape.com/documents/e5149cefcc6fcf6e46e5d30a/w/83f9b9912ecc8fbebcb307da/e/7d9534075d7e9d5a90a8b9f2?renderMode=0&uiState=687182f90089194bdb3eeae7
+OnShape link: https://cad.onshape.com/documents/a2fc39b782a9877e15fc57ab/w/e212786ff2404bc25bc49ba5/e/034413008ee0d62de4a94897?renderMode=0&uiState=69901eb71b0ca6286520dcfa
